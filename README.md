@@ -2,7 +2,7 @@
 
 ![](images/snapshot.png)
 
-# Setup
+## Setup
 
 The interface uses 3 APIs:
 
